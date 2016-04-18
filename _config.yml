@@ -1,7 +1,7 @@
 name: iteo
 favicon: null
-layout_spectrum: 0.9968088769819587
-typography_spectrum: 0.4199444828554988
+layout_spectrum: 1
+typography_spectrum: 0.30636
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.740765530616045
+    - '#48dfc6'
+    - '#40c1e6'
+    - '#64cef7'
+    - '#1f917c'
+    - '#40a2f5'
+  brandStrength: 0.75
   lightness: 0.8952530242968351
   saturation: 0.5326767021324486
   rhythmicContrast: 0.26958686555735767
